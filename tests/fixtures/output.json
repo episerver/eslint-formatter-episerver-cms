@@ -1,0 +1,260 @@
+[
+    {
+        "rule": "no-deprecated-episerver-apis",
+        "violations": [
+            {
+                "module": "epi-cms/store/CustomQueryEngine",
+                "usages": 2
+            },
+            {
+                "module": "epi/shell/widget/_ActionProviderWidget",
+                "usages": 1
+            }
+        ]
+    },
+    {
+        "rule": "no-internal-episerver-apis",
+        "violations": [
+            {
+                "module": "epi-cms/asset/HierarchicalList",
+                "usages": 2
+            },
+            {
+                "module": "epi-cms/asset/view-model/HierarchicalListViewModel",
+                "usages": 1
+            },
+            {
+                "module": "epi-cms/command/TranslateContent",
+                "usages": 2
+            },
+            {
+                "module": "epi-cms/component/ContentContextMenuCommandProvider",
+                "usages": 2
+            },
+            {
+                "module": "epi-cms/component/ContentNavigationTree",
+                "usages": 1
+            },
+            {
+                "module": "epi-cms/component/command/_GlobalToolbarCommandProvider",
+                "usages": 1
+            },
+            {
+                "module": "epi-cms/content-approval/command/EditApprovalDefinition",
+                "usages": 2
+            },
+            {
+                "module": "epi-cms/contentediting/ContentDetails",
+                "usages": 1
+            },
+            {
+                "module": "epi-cms/contentediting/ContentEditingValidator",
+                "usages": 1
+            },
+            {
+                "module": "epi-cms/contentediting/ContentViewModel",
+                "usages": 1
+            },
+            {
+                "module": "epi-cms/contentediting/CreateContent",
+                "usages": 2
+            },
+            {
+                "module": "epi-cms/contentediting/MappingManager",
+                "usages": 1
+            },
+            {
+                "module": "epi-cms/contentediting/NotificationBar",
+                "usages": 8
+            },
+            {
+                "module": "epi-cms/contentediting/_FormEditingMixin",
+                "usages": 1
+            },
+            {
+                "module": "epi-cms/contentediting/command/_CommandWithDialogMixin",
+                "usages": 1
+            },
+            {
+                "module": "epi-cms/contentediting/editors/CheckBoxListEditor",
+                "usages": 1
+            },
+            {
+                "module": "epi-cms/contentediting/editors/ContentReferenceListEditor",
+                "usages": 1
+            },
+            {
+                "module": "epi-cms/contentediting/editors/_AddItemDialogMixin",
+                "usages": 1
+            },
+            {
+                "module": "epi-cms/contentediting/editors/model/CollectionEditorItemModel",
+                "usages": 2
+            },
+            {
+                "module": "epi-cms/contentediting/editors/model/CollectionEditorModel",
+                "usages": 6
+            },
+            {
+                "module": "epi-cms/contentediting/editors/model/ContentReferenceListEditorModel",
+                "usages": 1
+            },
+            {
+                "module": "epi-cms/store/CustomQueryEngine",
+                "usages": 2
+            },
+            {
+                "module": "epi-cms/widget/Breadcrumb",
+                "usages": 5
+            },
+            {
+                "module": "epi-cms/widget/BreadcrumbCurrentItem",
+                "usages": 5
+            },
+            {
+                "module": "epi-cms/widget/ContentForestStoreModel",
+                "usages": 1
+            },
+            {
+                "module": "epi-cms/widget/ContentSelectorDialog",
+                "usages": 2
+            },
+            {
+                "module": "epi-cms/widget/ContentTreeModelConfirmation",
+                "usages": 1
+            },
+            {
+                "module": "epi-cms/widget/CreateCommandsMixin",
+                "usages": 3
+            },
+            {
+                "module": "epi-cms/widget/NotificationStatusBar",
+                "usages": 1
+            },
+            {
+                "module": "epi-cms/widget/SearchBox",
+                "usages": 1
+            },
+            {
+                "module": "epi-cms/widget/_HasChildDialogMixin",
+                "usages": 1
+            },
+            {
+                "module": "epi-cms/widget/command/CreateContentFromSelector",
+                "usages": 1
+            },
+            {
+                "module": "epi-cms/widget/overlay/ItemCollection",
+                "usages": 1
+            },
+            {
+                "module": "epi/PluginArea",
+                "usages": 1
+            },
+            {
+                "module": "epi/shell/ClipboardManager",
+                "usages": 6
+            },
+            {
+                "module": "epi/shell/XhrWrapper",
+                "usages": 1
+            },
+            {
+                "module": "epi/shell/command/DelegateCommand",
+                "usages": 6
+            },
+            {
+                "module": "epi/shell/command/_CommandModelBindingMixin",
+                "usages": 2
+            },
+            {
+                "module": "epi/shell/command/_SelectionCommandMixin",
+                "usages": 1
+            },
+            {
+                "module": "epi/shell/command/builder/ButtonBuilder",
+                "usages": 4
+            },
+            {
+                "module": "epi/shell/command/withConfirmation",
+                "usages": 4
+            },
+            {
+                "module": "epi/shell/dgrid/Focusable",
+                "usages": 2
+            },
+            {
+                "module": "epi/shell/dgrid/Responsive",
+                "usages": 1
+            },
+            {
+                "module": "epi/shell/dgrid/_EditorMetadataMixin",
+                "usages": 3
+            },
+            {
+                "module": "epi/shell/dnd/Target",
+                "usages": 3
+            },
+            {
+                "module": "epi/shell/dnd/tree/dndSource",
+                "usages": 1
+            },
+            {
+                "module": "epi/shell/form/Group",
+                "usages": 1
+            },
+            {
+                "module": "epi/shell/form/formFieldRegistry",
+                "usages": 2
+            },
+            {
+                "module": "epi/shell/layout/SimpleContainer",
+                "usages": 3
+            },
+            {
+                "module": "epi/shell/layout/ToolbarContainer",
+                "usages": 1
+            },
+            {
+                "module": "epi/shell/selection",
+                "usages": 8
+            },
+            {
+                "module": "epi/shell/store/EventedStore",
+                "usages": 1
+            },
+            {
+                "module": "epi/shell/store/Patchable",
+                "usages": 3
+            },
+            {
+                "module": "epi/shell/widget/SearchBox",
+                "usages": 1
+            },
+            {
+                "module": "epi/shell/widget/ToolbarLabel",
+                "usages": 1
+            },
+            {
+                "module": "epi/shell/widget/ToolbarSet",
+                "usages": 1
+            },
+            {
+                "module": "epi/shell/widget/_AddByDefinition",
+                "usages": 1
+            },
+            {
+                "module": "epi/shell/widget/_FocusableMixin",
+                "usages": 11
+            },
+            {
+                "module": "epi/shell/widget/_ModelBindingMixin",
+                "usages": 12
+            },
+            {
+                "module": "epi/shell/widget/dialog/_DialogContentMixin",
+                "usages": 2
+            }
+        ]
+    }
+]
