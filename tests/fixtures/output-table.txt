@@ -1,65 +1,67 @@
- API        Module name                                                          Usages
- deprecated epi-cms/store/CustomQueryEngine                                      2
- deprecated epi/shell/widget/_ActionProviderWidget                               1
- internal   epi/shell/widget/_ModelBindingMixin                                  12 🔥
- internal   epi/shell/widget/_FocusableMixin                                     11 🔥
- internal   epi/shell/selection                                                  8 🔥
- internal   epi-cms/contentediting/NotificationBar                               8 🔥
- internal   epi/shell/ClipboardManager                                           6 🔥
- internal   epi-cms/contentediting/editors/model/CollectionEditorModel           6 🔥
- internal   epi/shell/command/DelegateCommand                                    6 🔥
- internal   epi-cms/widget/Breadcrumb                                            5 🔥
- internal   epi-cms/widget/BreadcrumbCurrentItem                                 5 🔥
- internal   epi/shell/command/withConfirmation                                   4
- internal   epi/shell/command/builder/ButtonBuilder                              4
- internal   epi/shell/dgrid/_EditorMetadataMixin                                 3
- internal   epi-cms/widget/CreateCommandsMixin                                   3
- internal   epi/shell/layout/SimpleContainer                                     3
- internal   epi/shell/store/Patchable                                            3
- internal   epi/shell/dnd/Target                                                 3
- internal   epi-cms/asset/HierarchicalList                                       2
- internal   epi-cms/contentediting/CreateContent                                 2
- internal   epi-cms/contentediting/editors/model/CollectionEditorItemModel       2
- internal   epi/shell/form/formFieldRegistry                                     2
- internal   epi/shell/command/_CommandModelBindingMixin                          2
- internal   epi-cms/store/CustomQueryEngine                                      2
- internal   epi-cms/content-approval/command/EditApprovalDefinition              2
- internal   epi-cms/component/ContentContextMenuCommandProvider                  2
- internal   epi/shell/widget/dialog/_DialogContentMixin                          2
- internal   epi-cms/widget/ContentSelectorDialog                                 2
- internal   epi/shell/dgrid/Focusable                                            2
- internal   epi-cms/command/TranslateContent                                     2
- internal   epi-cms/contentediting/_FormEditingMixin                             1
- internal   epi-cms/widget/NotificationStatusBar                                 1
- internal   epi-cms/asset/view-model/HierarchicalListViewModel                   1
- internal   epi-cms/widget/command/CreateContentFromSelector                     1
- internal   epi-cms/widget/overlay/ItemCollection                                1
- internal   epi/PluginArea                                                       1
- internal   epi-cms/widget/ContentTreeModelConfirmation                          1
- internal   epi/shell/XhrWrapper                                                 1
- internal   epi-cms/widget/ContentForestStoreModel                               1
- internal   epi-cms/contentediting/editors/model/ContentReferenceListEditorModel 1
- internal   epi/shell/command/_SelectionCommandMixin                             1
- internal   epi-cms/contentediting/editors/_AddItemDialogMixin                   1
- internal   epi-cms/contentediting/editors/ContentReferenceListEditor            1
- internal   epi-cms/contentediting/editors/CheckBoxListEditor                    1
- internal   epi/shell/dgrid/Responsive                                           1
- internal   epi-cms/contentediting/command/_CommandWithDialogMixin               1
- internal   epi-cms/widget/SearchBox                                             1
- internal   epi/shell/dnd/tree/dndSource                                         1
- internal   epi/shell/form/Group                                                 1
- internal   epi-cms/contentediting/MappingManager                                1
- internal   epi-cms/contentediting/ContentViewModel                              1
- internal   epi/shell/layout/ToolbarContainer                                    1
- internal   epi-cms/contentediting/ContentEditingValidator                       1
- internal   epi/shell/store/EventedStore                                         1
- internal   epi-cms/contentediting/ContentDetails                                1
- internal   epi/shell/widget/SearchBox                                           1
- internal   epi/shell/widget/ToolbarLabel                                        1
- internal   epi/shell/widget/ToolbarSet                                          1
- internal   epi/shell/widget/_AddByDefinition                                    1
- internal   epi-cms/component/command/_GlobalToolbarCommandProvider              1
- internal   epi-cms/component/ContentNavigationTree                              1
- internal   epi-cms/widget/_HasChildDialogMixin                                  1
-  💣 Deprecated API's used 3 times
-  ⚠️ Internal API's used 146 times
+
+[37m[42m API        Module name                                                          Usages [49m[39m
+[37m[42m[49m[39m [90mdeprecated [39mepi-cms/store/CustomQueryEngine                                      2   
+ [90mdeprecated [39mepi/shell/widget/_ActionProviderWidget                               1   
+ [90minternal   [39mepi/shell/widget/_ModelBindingMixin                                  [31m12[39m 🔥 
+ [90minternal   [39mepi/shell/widget/_FocusableMixin                                     [31m11[39m 🔥 
+ [90minternal   [39mepi/shell/selection                                                  [31m8[39m 🔥 
+ [90minternal   [39mepi-cms/contentediting/NotificationBar                               [31m8[39m 🔥 
+ [90minternal   [39mepi/shell/ClipboardManager                                           [31m6[39m 🔥 
+ [90minternal   [39mepi-cms/contentediting/editors/model/CollectionEditorModel           [31m6[39m 🔥 
+ [90minternal   [39mepi/shell/command/DelegateCommand                                    [31m6[39m 🔥 
+ [90minternal   [39mepi-cms/widget/Breadcrumb                                            [31m5[39m 🔥 
+ [90minternal   [39mepi-cms/widget/BreadcrumbCurrentItem                                 [31m5[39m 🔥 
+ [90minternal   [39mepi/shell/command/withConfirmation                                   4   
+ [90minternal   [39mepi/shell/command/builder/ButtonBuilder                              4   
+ [90minternal   [39mepi/shell/dgrid/_EditorMetadataMixin                                 3   
+ [90minternal   [39mepi-cms/widget/CreateCommandsMixin                                   3   
+ [90minternal   [39mepi/shell/layout/SimpleContainer                                     3   
+ [90minternal   [39mepi/shell/store/Patchable                                            3   
+ [90minternal   [39mepi/shell/dnd/Target                                                 3   
+ [90minternal   [39mepi-cms/asset/HierarchicalList                                       2   
+ [90minternal   [39mepi-cms/contentediting/CreateContent                                 2   
+ [90minternal   [39mepi-cms/contentediting/editors/model/CollectionEditorItemModel       2   
+ [90minternal   [39mepi/shell/form/formFieldRegistry                                     2   
+ [90minternal   [39mepi/shell/command/_CommandModelBindingMixin                          2   
+ [90minternal   [39mepi-cms/store/CustomQueryEngine                                      2   
+ [90minternal   [39mepi-cms/content-approval/command/EditApprovalDefinition              2   
+ [90minternal   [39mepi-cms/component/ContentContextMenuCommandProvider                  2   
+ [90minternal   [39mepi/shell/widget/dialog/_DialogContentMixin                          2   
+ [90minternal   [39mepi-cms/widget/ContentSelectorDialog                                 2   
+ [90minternal   [39mepi/shell/dgrid/Focusable                                            2   
+ [90minternal   [39mepi-cms/command/TranslateContent                                     2   
+ [90minternal   [39mepi-cms/contentediting/_FormEditingMixin                             1   
+ [90minternal   [39mepi-cms/widget/NotificationStatusBar                                 1   
+ [90minternal   [39mepi-cms/asset/view-model/HierarchicalListViewModel                   1   
+ [90minternal   [39mepi-cms/widget/command/CreateContentFromSelector                     1   
+ [90minternal   [39mepi-cms/widget/overlay/ItemCollection                                1   
+ [90minternal   [39mepi/PluginArea                                                       1   
+ [90minternal   [39mepi-cms/widget/ContentTreeModelConfirmation                          1   
+ [90minternal   [39mepi/shell/XhrWrapper                                                 1   
+ [90minternal   [39mepi-cms/widget/ContentForestStoreModel                               1   
+ [90minternal   [39mepi-cms/contentediting/editors/model/ContentReferenceListEditorModel 1   
+ [90minternal   [39mepi/shell/command/_SelectionCommandMixin                             1   
+ [90minternal   [39mepi-cms/contentediting/editors/_AddItemDialogMixin                   1   
+ [90minternal   [39mepi-cms/contentediting/editors/ContentReferenceListEditor            1   
+ [90minternal   [39mepi-cms/contentediting/editors/CheckBoxListEditor                    1   
+ [90minternal   [39mepi/shell/dgrid/Responsive                                           1   
+ [90minternal   [39mepi-cms/contentediting/command/_CommandWithDialogMixin               1   
+ [90minternal   [39mepi-cms/widget/SearchBox                                             1   
+ [90minternal   [39mepi/shell/dnd/tree/dndSource                                         1   
+ [90minternal   [39mepi/shell/form/Group                                                 1   
+ [90minternal   [39mepi-cms/contentediting/MappingManager                                1   
+ [90minternal   [39mepi-cms/contentediting/ContentViewModel                              1   
+ [90minternal   [39mepi/shell/layout/ToolbarContainer                                    1   
+ [90minternal   [39mepi-cms/contentediting/ContentEditingValidator                       1   
+ [90minternal   [39mepi/shell/store/EventedStore                                         1   
+ [90minternal   [39mepi-cms/contentediting/ContentDetails                                1   
+ [90minternal   [39mepi/shell/widget/SearchBox                                           1   
+ [90minternal   [39mepi/shell/widget/ToolbarLabel                                        1   
+ [90minternal   [39mepi/shell/widget/ToolbarSet                                          1   
+ [90minternal   [39mepi/shell/widget/_AddByDefinition                                    1   
+ [90minternal   [39mepi-cms/component/command/_GlobalToolbarCommandProvider              1   
+ [90minternal   [39mepi-cms/component/ContentNavigationTree                              1   
+ [90minternal   [39mepi-cms/widget/_HasChildDialogMixin                                  1   
+[38;2;255;165;0m  💣 Deprecated API's used 3 times[39m
+[38;2;255;165;0m[39m[38;2;255;165;0m  ⚠️ Internal API's used 146 times[39m
+[38;2;255;165;0m[39m
