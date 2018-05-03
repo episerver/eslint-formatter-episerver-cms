@@ -39,8 +39,5 @@ $ eslint . --format=episerver-cms
 Install globally (see instructions above), and then run this for any project:
 
 ```
-$ eslint C:/YourEpiserverProject/ --plugin "episerver-cms" --rule "episerver-cms/no-internal-episerver-apis: error" --rule "episerver-cms/no-deprecated-episerver-apis: warn" --ignore-pattern "node_modules" -f episerver-cms
-
-# output to file:
-$ eslint C:/YourEpiserverProject/ --plugin "episerver-cms" --rule "episerver-cms/no-internal-episerver-apis: error" --rule "episerver-cms/no-deprecated-episerver-apis: warn" --ignore-pattern "node_modules" -f episerver-cms -o YourEpiserverProject.json
+$ eslint C:/YourEpiserverProject/ --output-file YourEpiserverProject.json --plugin episerver-cms --format episerver-cms --rule "{ episerver-cms/no-internal-episerver-apis: error, episerver-cms/no-deprecated-episerver-apis: warn }" --ignore-pattern "node_modules" --ignore-pattern "dtk"
 ```
