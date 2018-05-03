@@ -1,0 +1,1445 @@
+[
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell.Client.Tests\\UnitTests\\command\\DetachFromCategory_specs.js",
+        "modules": [
+            {
+                "name": "epi/shell/selection",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 6,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell.Client.Tests\\UnitTests\\command\\PasteCatalogContent_specs.js",
+        "modules": [
+            {
+                "name": "epi/shell/ClipboardManager",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 7,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/selection",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 8,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell.Client.Tests\\UnitTests\\component\\ContentContextMenuCommandProvider_specs.js",
+        "modules": [
+            {
+                "name": "epi/shell/ClipboardManager",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 9,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/selection",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 10,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/command/TranslateContent",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 17,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/content-approval/command/EditApprovalDefinition",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 18,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell.Client.Tests\\UnitTests\\contentediting\\PromotionContainer_specs.js",
+        "modules": [
+            {
+                "name": "epi/shell/form/formFieldRegistry",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 3,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell.Client.Tests\\UnitTests\\contentediting\\viewmodel\\CommerceMediaCollectionEditorModel_specs.js",
+        "modules": [
+            {
+                "name": "epi-cms/contentediting/editors/model/CollectionEditorItemModel",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 5,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/contentediting/editors/model/CollectionEditorModel",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 6,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell.Client.Tests\\UnitTests\\widget\\AggressiveStoreFactory.js",
+        "modules": [
+            {
+                "name": "epi/shell/store/Patchable",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 9,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/store/CustomQueryEngine",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 11,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/store/CustomQueryEngine",
+                "category": "deprecated",
+                "ruleId": "episerver-cms/no-deprecated-episerver-apis",
+                "line": 11,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell.Client.Tests\\UnitTests\\widget\\CampaignItemList_specs.js",
+        "modules": [
+            {
+                "name": "epi/shell/store/EventedStore",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 9,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/store/Patchable",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 10,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell.Client.Tests\\UnitTests\\widget\\CatalogContentList_specs.js",
+        "modules": [
+            {
+                "name": "epi/shell/ClipboardManager",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 12,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell.Client.Tests\\UnitTests\\widget\\GridFormView_specs.js",
+        "modules": [
+            {
+                "name": "epi/shell/store/Patchable",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 11,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/contentediting/CreateContent",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 14,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell.Client.Tests\\UnitTests\\widget\\viewmodel\\CatalogContentListViewModel_specs.js",
+        "modules": [
+            {
+                "name": "epi/shell/ClipboardManager",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 8,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/widget/CreateCommandsMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 9,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell.Client.Tests\\UnitTests\\widget\\viewmodel\\CatalogListViewModel_specs.js",
+        "modules": [
+            {
+                "name": "epi/shell/ClipboardManager",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 6,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/widget/CreateCommandsMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 10,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\command\\DetachFromCategory.js",
+        "modules": [
+            {
+                "name": "epi/shell/command/_SelectionCommandMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 13,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\command\\MarketingToolbarCommandProvider.js",
+        "modules": [
+            {
+                "name": "epi-cms/component/command/_GlobalToolbarCommandProvider",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 7,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/widget/command/CreateContentFromSelector",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 8,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\CommerceUIModule.js",
+        "modules": [
+            {
+                "name": "epi/shell/ClipboardManager",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 9,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/store/CustomQueryEngine",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 10,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/store/CustomQueryEngine",
+                "category": "deprecated",
+                "ruleId": "episerver-cms/no-deprecated-episerver-apis",
+                "line": 10,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\component\\Campaigns.js",
+        "modules": [
+            {
+                "name": "epi-cms/asset/HierarchicalList",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 5,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\component\\CatalogNavigationTree.js",
+        "modules": [
+            {
+                "name": "epi-cms/component/ContentNavigationTree",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 7,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\component\\Catalogs.js",
+        "modules": [
+            {
+                "name": "epi-cms/asset/HierarchicalList",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 12,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\component\\commerceDndSource.js",
+        "modules": [
+            {
+                "name": "epi/shell/dnd/tree/dndSource",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 5,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\component\\CommerceMediaItemModel.js",
+        "modules": [
+            {
+                "name": "epi-cms/contentediting/editors/model/CollectionEditorItemModel",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 12,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\component\\ContentContextMenuCommandProvider.js",
+        "modules": [
+            {
+                "name": "epi/shell/selection",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 11,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/command/withConfirmation",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 12,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/component/ContentContextMenuCommandProvider",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 14,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/command/TranslateContent",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 21,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/content-approval/command/EditApprovalDefinition",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 22,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\component\\DiscountPriority.js",
+        "modules": [
+            {
+                "name": "epi-cms/contentediting/ContentEditingValidator",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 16,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\component\\MarketingOverview.js",
+        "modules": [
+            {
+                "name": "epi-cms/widget/SearchBox",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 13,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\component\\viewmodel\\CatalogsViewModel.js",
+        "modules": [
+            {
+                "name": "epi-cms/asset/view-model/HierarchicalListViewModel",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 7,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\editors\\_BaseEntryCollectionEditorGrid.js",
+        "modules": [
+            {
+                "name": "epi/shell/command/builder/ButtonBuilder",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 21,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/dgrid/_EditorMetadataMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 22,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/widget/_FocusableMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 23,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/widget/_ModelBindingMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 24,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/widget/ContentSelectorDialog",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 29,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/contentediting/editors/_AddItemDialogMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 30,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\editors\\_GridWithAddCommand.js",
+        "modules": [
+            {
+                "name": "epi/shell/command/builder/ButtonBuilder",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 18,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/widget/dialog/_DialogContentMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 19,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\editors\\_GridWithDropContainerMixin.js",
+        "modules": [
+            {
+                "name": "epi/shell/dnd/Target",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 7,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\editors\\_LanguageRestrictedEditButtonMixin.js",
+        "modules": [
+            {
+                "name": "epi/shell/widget/_ModelBindingMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 8,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\editors\\_OverviewEditorBase.js",
+        "modules": [
+            {
+                "name": "epi/shell/widget/_FocusableMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 19,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/widget/_ModelBindingMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 20,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\editors\\_RelationCollectionEditorBase.js",
+        "modules": [
+            {
+                "name": "epi-cms/contentediting/editors/model/CollectionEditorModel",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 22,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/widget/ContentSelectorDialog",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 26,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\editors\\AddRelationGroupDefinitionCommand.js",
+        "modules": [
+            {
+                "name": "epi-cms/contentediting/command/_CommandWithDialogMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 14,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\editors\\CategoryCollectionEditor.js",
+        "modules": [
+            {
+                "name": "epi/shell/widget/_FocusableMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 16,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\editors\\CommerceMediaCollectionEditor.js",
+        "modules": [
+            {
+                "name": "epi/shell/widget/_FocusableMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 11,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/dnd/Target",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 12,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\editors\\ContentReferenceListEditor.js",
+        "modules": [
+            {
+                "name": "epi-cms/contentediting/editors/ContentReferenceListEditor",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 8,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\editors\\DictionaryEditor.js",
+        "modules": [
+            {
+                "name": "epi/shell/command/withConfirmation",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 13,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\editors\\InventoryOverviewEditor.js",
+        "modules": [
+            {
+                "name": "epi/shell/dgrid/_EditorMetadataMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 17,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\editors\\model\\CommerceMediaCollectionEditorModel.js",
+        "modules": [
+            {
+                "name": "epi/shell/command/DelegateCommand",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 6,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/contentediting/editors/model/CollectionEditorModel",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 7,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\editors\\model\\ContentReferenceListEditorModel.js",
+        "modules": [
+            {
+                "name": "epi-cms/contentediting/editors/model/ContentReferenceListEditorModel",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 8,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\editors\\MonetaryRewardEditor.js",
+        "modules": [
+            {
+                "name": "epi/shell/widget/_FocusableMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 13,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\editors\\MoneyListEditor.js",
+        "modules": [
+            {
+                "name": "epi/shell/dgrid/Focusable",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 22,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/widget/_FocusableMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 23,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\editors\\PricingOverviewEditor.js",
+        "modules": [
+            {
+                "name": "epi/shell/dgrid/_EditorMetadataMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 18,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\editors\\PromotionScheduleEditor.js",
+        "modules": [
+            {
+                "name": "epi/shell/widget/_FocusableMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 14,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/widget/_ModelBindingMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 15,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\editors\\RelationCollectionGridAssembler.js",
+        "modules": [
+            {
+                "name": "epi/shell/selection",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 7,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/command/builder/ButtonBuilder",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 8,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\editors\\ShippingMethodListEditor.js",
+        "modules": [
+            {
+                "name": "epi-cms/contentediting/editors/CheckBoxListEditor",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 6,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\editors\\VariantCollectionEditor.js",
+        "modules": [
+            {
+                "name": "epi/shell/widget/_FocusableMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 5,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/contentediting/editors/model/CollectionEditorModel",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 7,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\editors\\VisitorGroupSelector.js",
+        "modules": [
+            {
+                "name": "epi/shell/widget/_FocusableMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 10,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\GridFormContainer.js",
+        "modules": [
+            {
+                "name": "epi/shell/layout/SimpleContainer",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 7,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\PromotionContainer.js",
+        "modules": [
+            {
+                "name": "epi/shell/form/formFieldRegistry",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 7,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/form/Group",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 8,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/layout/SimpleContainer",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 9,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\viewmodel\\_BaseEntryCollectionEditorModel.js",
+        "modules": [
+            {
+                "name": "epi/shell/command/DelegateCommand",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 11,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\viewmodel\\_RelationCollectionEditorModelMixin.js",
+        "modules": [
+            {
+                "name": "epi/shell/command/DelegateCommand",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 8,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\viewmodel\\CategoryCollectionEditorModel.js",
+        "modules": [
+            {
+                "name": "epi/shell/selection",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 8,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/contentediting/editors/model/CollectionEditorModel",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 11,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\viewmodel\\InventoryOverviewEditorModel.js",
+        "modules": [
+            {
+                "name": "epi/shell/command/DelegateCommand",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 11,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\viewmodel\\PricingOverviewEditorModel.js",
+        "modules": [
+            {
+                "name": "epi/shell/command/DelegateCommand",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 12,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\contentediting\\viewmodel\\ReadOnlyCollectionEditorModel.js",
+        "modules": [
+            {
+                "name": "epi-cms/contentediting/editors/model/CollectionEditorModel",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 11,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\plugin-area\\_CommerceEditViewFilter.js",
+        "modules": [
+            {
+                "name": "epi/PluginArea",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 3,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\_OverviewBase.js",
+        "modules": [
+            {
+                "name": "epi/shell/widget/_ModelBindingMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 17,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\_SelectorBase.js",
+        "modules": [
+            {
+                "name": "epi-cms/widget/_HasChildDialogMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 17,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\BundleEdit.js",
+        "modules": [
+            {
+                "name": "epi/shell/widget/_ModelBindingMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 10,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/widget/Breadcrumb",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 14,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/widget/BreadcrumbCurrentItem",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 15,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/contentediting/NotificationBar",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 21,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\CampaignItemList.js",
+        "modules": [
+            {
+                "name": "epi/shell/command/builder/ButtonBuilder",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 14,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\CatalogContentDetails.js",
+        "modules": [
+            {
+                "name": "epi/shell/layout/SimpleContainer",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 21,
+                "column": 9
+            },
+            {
+                "name": "epi-cms/contentediting/ContentDetails",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 26,
+                "column": 9
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\CatalogContentList.js",
+        "modules": [
+            {
+                "name": "epi/shell/widget/_FocusableMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 24,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/contentediting/NotificationBar",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 31,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\CatalogList.js",
+        "modules": [
+            {
+                "name": "epi/shell/widget/_FocusableMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 15,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\CatalogPasteItemDialog.js",
+        "modules": [
+            {
+                "name": "epi/shell/widget/_ActionProviderWidget",
+                "category": "deprecated",
+                "ruleId": "episerver-cms/no-deprecated-episerver-apis",
+                "line": 11,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/widget/dialog/_DialogContentMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 12,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\CommandButton.js",
+        "modules": [
+            {
+                "name": "epi/shell/command/_CommandModelBindingMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 4,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\CommandToggleButton.js",
+        "modules": [
+            {
+                "name": "epi/shell/command/_CommandModelBindingMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 4,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\CommandToolbar.js",
+        "modules": [
+            {
+                "name": "epi/shell/widget/_AddByDefinition",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 12,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\DiscountSelectorDialog.js",
+        "modules": [
+            {
+                "name": "epi/shell/widget/SearchBox",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 11,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\FacetGroup.js",
+        "modules": [
+            {
+                "name": "epi/shell/dgrid/Focusable",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 27,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/dgrid/Responsive",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 29,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/widget/_ModelBindingMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 31,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\FacetGroupList.js",
+        "modules": [
+            {
+                "name": "epi/shell/widget/_ModelBindingMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 12,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\GridFormView.js",
+        "modules": [
+            {
+                "name": "epi-cms/contentediting/_FormEditingMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 23,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/contentediting/ContentViewModel",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 24,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/contentediting/CreateContent",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 25,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/contentediting/MappingManager",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 26,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\InventoryOverview.js",
+        "modules": [
+            {
+                "name": "epi-cms/contentediting/NotificationBar",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 17,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\LinkEdit.js",
+        "modules": [
+            {
+                "name": "epi/shell/widget/_ModelBindingMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 10,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/widget/Breadcrumb",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 14,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/widget/BreadcrumbCurrentItem",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 15,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/contentediting/NotificationBar",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 24,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\MarketingToolbar.js",
+        "modules": [
+            {
+                "name": "epi/shell/layout/ToolbarContainer",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 7,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/widget/ToolbarLabel",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 8,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/widget/ToolbarSet",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 9,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/widget/NotificationStatusBar",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 10,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\overlay\\CommerceMediaCollection.js",
+        "modules": [
+            {
+                "name": "epi-cms/widget/overlay/ItemCollection",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 7,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\PackageEdit.js",
+        "modules": [
+            {
+                "name": "epi/shell/widget/_ModelBindingMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 10,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/widget/Breadcrumb",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 14,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/widget/BreadcrumbCurrentItem",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 15,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/contentediting/NotificationBar",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 22,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\PricingOverview.js",
+        "modules": [
+            {
+                "name": "epi-cms/contentediting/NotificationBar",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 14,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\RelatedEntriesEdit.js",
+        "modules": [
+            {
+                "name": "epi/shell/widget/_ModelBindingMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 10,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/widget/Breadcrumb",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 14,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/widget/BreadcrumbCurrentItem",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 15,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/contentediting/NotificationBar",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 24,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\VariantEdit.js",
+        "modules": [
+            {
+                "name": "epi/shell/widget/_ModelBindingMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 11,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/dnd/Target",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 12,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/widget/Breadcrumb",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 15,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/widget/BreadcrumbCurrentItem",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 16,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/contentediting/NotificationBar",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 26,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\viewmodel\\CatalogContentListViewModel.js",
+        "modules": [
+            {
+                "name": "epi/shell/selection",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 10,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/command/withConfirmation",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 11,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/command/DelegateCommand",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 12,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\viewmodel\\CatalogListViewModel.js",
+        "modules": [
+            {
+                "name": "epi/shell/selection",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 11,
+                "column": 5
+            },
+            {
+                "name": "epi/shell/command/withConfirmation",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 13,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/component/ContentContextMenuCommandProvider",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 18,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/widget/CreateCommandsMixin",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 20,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/widget/ContentTreeModelConfirmation",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 21,
+                "column": 5
+            }
+        ]
+    },
+    {
+        "location": "C:\\SomeProject\\SomeProject.Shopping.Shell\\ClientResources\\epi-ecf-ui\\widget\\viewmodel\\CatalogTreeStoreModel.js",
+        "modules": [
+            {
+                "name": "epi/shell/XhrWrapper",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 14,
+                "column": 5
+            },
+            {
+                "name": "epi-cms/widget/ContentForestStoreModel",
+                "category": "internal",
+                "ruleId": "episerver-cms/no-internal-episerver-apis",
+                "line": 20,
+                "column": 5
+            }
+        ]
+    }
+]
