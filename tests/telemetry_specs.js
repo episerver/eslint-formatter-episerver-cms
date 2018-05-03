@@ -1,5 +1,6 @@
 const { describe, it } = require("mocha");
 const { expect } = require("chai");
+
 const input = require("./fixtures/input.json");
 const expected = require("./fixtures/output-telemetry.json");
 const formatter = require("../lib/telemetry");

@@ -614,6 +614,10 @@ node-emoji@^1.8.1:
   dependencies:
     lodash.toarray "^4.4.0"
 
+normalize-newline@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/normalize-newline/-/normalize-newline-3.0.0.tgz#1cbea804aba436001f83938ab21ec039d69ae9d3"
+
 object-assign@^4.0.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/object-assign/-/object-assign-4.1.1.tgz#2109adc7965887cfc05cbbd442cac8bfbb360863"
