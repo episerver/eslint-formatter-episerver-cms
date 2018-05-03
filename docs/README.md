@@ -1,13 +1,13 @@
 # Formatters
 
-There are several formatters and they can be used with the `-f` flag when calling ESLint. They reside in `./node_modules/eslint-plugin-episerver-cms/formatters/`.
+There are several formatters and they can be used with the `-f` flag when calling ESLint. They reside in `./node_modules/eslint-formatter-episerver-cms/lib/`.
 
 ## Summary format
 
 Usage:
 
 ```
-$ eslint . -f ./node_modules/eslint-plugin-episerver-cms/formatters/summary.js
+$ eslint . -f ./node_modules/eslint-formatter-episerver-cms/lib/summary.js
 ```
 
 Result:
@@ -22,7 +22,7 @@ Used by the `summary` formatter.
 Usage:
 
 ```
-$ eslint . -f ./node_modules/eslint-plugin-episerver-cms/formatters/table.js
+$ eslint . -f ./node_modules/eslint-formatter-episerver-cms/lib/table.js
 ```
 
 
@@ -34,10 +34,10 @@ Usage:
 
 ```
 # Output to console
-$ eslint . -f ./node_modules/eslint-plugin-episerver-cms/formatters/csv.js
+$ eslint . -f ./node_modules/eslint-formatter-episerver-cms/lib/csv.js
 
 # Output to file
-$ eslint . -f ./node_modules/eslint-plugin-episerver-cms/formatters/csv.js -o epi-module-usage.csv
+$ eslint . -f ./node_modules/eslint-formatter-episerver-cms/lib/csv.js -o epi-module-usage.csv
 ```
 
 Result:
@@ -59,10 +59,10 @@ Usage:
 
 ```
 # Output to console
-$ eslint . -f ./node_modules/eslint-plugin-episerver-cms/formatters/json.js
+$ eslint . -f ./node_modules/eslint-formatter-episerver-cms/lib/json.js
 
 # Output to file
-$ eslint . -f ./node_modules/eslint-plugin-episerver-cms/formatters/json.js -o epi-module-usage.json
+$ eslint . -f ./node_modules/eslint-formatter-episerver-cms/lib/json.js -o epi-module-usage.json
 ```
 
 Result:
