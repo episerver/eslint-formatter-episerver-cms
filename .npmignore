@@ -1,3 +1,4 @@
+.vscode
 docs
 tests
 .editorconfig
@@ -5,3 +6,4 @@ tests
 .gitattributes
 .gitignore
 yarn.lock
+*.log
