@@ -2,6 +2,8 @@
 
 Formatters for [`eslint-plugin-episerver-cms`](https://github.com/seriema/eslint-plugin-episerver-cms) that gives a nicer overview of what internal and deprecated Episerver CMS JavaScript API's are used.
 
+> _If you work on multiple Episerver projects and want to help us improve our public API, [we could use your help](https://github.com/seriema/eslint-plugin-episerver-cms/blob/master/say-hello.md)._
+
 ![Screenshot of summary output](docs/summary.png)
 
 ## Installation
@@ -26,9 +28,9 @@ $ yarn add seriema/eslint-formatter-episerver-cms -D
 
 ## Usage
 
-There are several formatters you can use to get a clearer overview of what Episerver API's are being used but shouldn't be. If you want to send us some statistics to help us in the CMS UI team, please send us the CSV version. [See all formatters.](docs/README.md)
+There are several formatters you can use to get a clearer overview of what Episerver API's are being used but shouldn't be. If you want to send us some statistics to help us in the CMS UI team, please send us the default (telemetry JSON) file. [Read more.](https://github.com/seriema/eslint-plugin-episerver-cms/blob/master/say-hello.md)
 
-The summary formatter can be used with:
+The telemetry formatter can be used with:
 
 ```console
 $ eslint . --format=episerver-cms
