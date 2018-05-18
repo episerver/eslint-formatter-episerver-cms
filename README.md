@@ -4,24 +4,24 @@ Formatters for [`eslint-plugin-episerver-cms`](https://github.com/seriema/eslint
 
 > _If you work on multiple Episerver projects and want to help us improve our public API, [we could use your help](https://github.com/seriema/eslint-plugin-episerver-cms/blob/master/say-hello.md)._
 
-![Screenshot of summary output](docs/summary.png)
+![Screenshot of summary output](https://github.com/seriema/eslint-formatter-episerver-cms/blob/master/docs/summary.png?raw=true)
 
 ## Installation
 
 You'll first need to install [ESLint](http://eslint.org) and [eslint-plugin-episerver-cms](https://github.com/seriema/eslint-plugin-episerver-cms):
 
-```
+```shell
 $ npm i eslint eslint-plugin-episerver-cms --save-dev
 # or
 $ yarn add eslint eslint-plugin-episerver-cms -D
 ```
 
-Next, install `eslint-formatter-episerver-cms` from github as it's not ready for npm just yet:
+Next, install `eslint-formatter-episerver-cms`:
 
-```
-$ npm i seriema/eslint-formatter-episerver-cms --save-dev
+```shell
+$ npm i eslint-formatter-episerver-cms --save-dev
 # or
-$ yarn add seriema/eslint-formatter-episerver-cms -D
+$ yarn add eslint-formatter-episerver-cms -D
 ```
 
 **Note:** If you installed ESLint and eslint-plugin-episerver-cms globally (using the `-g` flag) then you must also install `eslint-formatter-episerver-cms` globally.
@@ -32,7 +32,7 @@ There are several formatters you can use to get a clearer overview of what Epise
 
 The telemetry formatter can be used with:
 
-```console
+```shell
 $ eslint . --format=episerver-cms
 ```
 
@@ -40,6 +40,6 @@ $ eslint . --format=episerver-cms
 
 Install globally (see instructions above), and then run this for any project:
 
-```
+```shell
 $ eslint C:/YourEpiserverProject/ --output-file YourEpiserverProject.json --plugin episerver-cms --format episerver-cms --rule "{ episerver-cms/no-internal-episerver-apis: error, episerver-cms/no-deprecated-episerver-apis: warn }" --ignore-pattern "node_modules" --ignore-pattern "dtk"
 ```

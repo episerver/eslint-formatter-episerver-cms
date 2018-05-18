@@ -1,18 +1,28 @@
 {
   "name": "eslint-formatter-episerver-cms",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Formatters for `eslint-plugin-episerver-cms` that gives a nicer overview of what internal and deprecated Episerver CMS JS API's are used.",
-  "main": "lib/index.js",
-  "repository": "https://github.com/seriema/eslint-formatter-episerver-cms",
-  "author": "John-Philip Johansson <seriema@gmail.com>",
+  "author": "John-Philip Johansson <jp.johansson@episerver.com>",
   "license": "Apache-2.0",
-  "private": false,
+  "keywords": [
+    "eslint",
+    "eslintformatter",
+    "eslint-formatter",
+    "episerver"
+  ],
+  "homepage": "https://github.com/seriema/eslint-plugin-episerver-cms",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/seriema/eslint-plugin-episerver-cms.git"
+  },
+  "main": "lib/index.js",
   "scripts": {
     "lint": "eslint .",
     "test": "eslint . && mocha tests --recursive"
   },
-  "engines": {
-    "node": ">=6.0.0"
+  "dependencies": {
+    "chalk": "^2.4.0",
+    "node-emoji": "^1.8.1"
   },
   "peerDependencies": {
     "eslint": "^3.9.0 || ^4.0.0",
@@ -24,8 +34,7 @@
     "mocha": "^5.1.0",
     "normalize-newline": "^3.0.0"
   },
-  "dependencies": {
-    "chalk": "^2.4.0",
-    "node-emoji": "^1.8.1"
+  "engines": {
+    "node": ">=6.0.0"
   }
 }
