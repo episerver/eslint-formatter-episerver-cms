@@ -1,6 +1,6 @@
 {
   "name": "eslint-formatter-episerver-cms",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Formatters for `eslint-plugin-episerver-cms` that gives a nicer overview of what internal and deprecated Episerver CMS JS API's are used.",
   "author": "John-Philip Johansson <jp.johansson@episerver.com>",
   "license": "Apache-2.0",
