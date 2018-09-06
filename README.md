@@ -1,6 +1,6 @@
-# eslint-formatter-episerver-cms
+# @episerver/eslint-formatter-cms
 
-Formatters for [`eslint-plugin-episerver-cms`](https://github.com/seriema/eslint-plugin-episerver-cms) that gives a nicer overview of what internal and deprecated Episerver CMS JavaScript API's are used.
+Formatters for [`@episerver/eslint-plugin-cms`](https://github.com/seriema/eslint-plugin-episerver-cms) that gives a nicer overview of what internal and deprecated Episerver CMS JavaScript API's are used.
 
 > _If you work on multiple Episerver projects and want to help us improve our public API, [we could use your help](https://github.com/seriema/eslint-plugin-episerver-cms/blob/master/say-hello.md)._
 
@@ -8,23 +8,23 @@ Formatters for [`eslint-plugin-episerver-cms`](https://github.com/seriema/eslint
 
 ## Installation
 
-You'll first need to install [ESLint](http://eslint.org) and [eslint-plugin-episerver-cms](https://github.com/seriema/eslint-plugin-episerver-cms):
+You'll first need to install [ESLint](http://eslint.org) and [@episerver/eslint-plugin-cms](https://github.com/seriema/eslint-plugin-episerver-cms):
 
 ```shell
-$ npm i eslint eslint-plugin-episerver-cms --save-dev
+$ npm i eslint @episerver/eslint-plugin-cms --save-dev
 # or
-$ yarn add eslint eslint-plugin-episerver-cms -D
+$ yarn add eslint @episerver/eslint-plugin-cms -D
 ```
 
-Next, install `eslint-formatter-episerver-cms`:
+Next, install `@episerver/eslint-formatter-cms`:
 
 ```shell
-$ npm i eslint-formatter-episerver-cms --save-dev
+$ npm i @episerver/eslint-formatter-cms --save-dev
 # or
-$ yarn add eslint-formatter-episerver-cms -D
+$ yarn add @episerver/eslint-formatter-cms -D
 ```
 
-**Note:** If you installed ESLint and eslint-plugin-episerver-cms globally (using the `-g` flag) then you must also install `eslint-formatter-episerver-cms` globally.
+**Note:** If you installed ESLint and @episerver/eslint-plugin-cms globally (using the `-g` flag) then you must also install `@episerver/eslint-formatter-cms` globally.
 
 ## Usage
 
@@ -33,7 +33,7 @@ There are several formatters you can use to get a clearer overview of what Epise
 The telemetry formatter can be used with:
 
 ```shell
-$ eslint . --format=episerver-cms
+$ eslint . --format=@episerver/cms
 ```
 
 ### Analyzing multiple projects
@@ -41,5 +41,5 @@ $ eslint . --format=episerver-cms
 Install globally (see instructions above), and then run this for any project:
 
 ```shell
-$ eslint C:/YourEpiserverProject/ --output-file YourEpiserverProject.json --plugin episerver-cms --format episerver-cms --rule "{ episerver-cms/no-internal-episerver-apis: error, episerver-cms/no-deprecated-episerver-apis: warn }" --ignore-pattern "node_modules" --ignore-pattern "dtk"
+$ eslint C:/YourEpiserverProject/ --output-file YourEpiserverProject.json --plugin @episerver/cms --format @episerver/cms --rule "{ @episerver/cms/no-internal-episerver-apis: error, @episerver/cms/no-deprecated-episerver-apis: warn }" --ignore-pattern "node_modules" --ignore-pattern "dtk"
 ```
